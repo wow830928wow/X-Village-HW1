@@ -1,5 +1,6 @@
 X-Village Homework1
 ===
+nnnnnn
 
 Homework1 程式模板為 matrix.py，可以從這份檔案做修改。
 
